@@ -1,4 +1,4 @@
-async function getResponseFromAPI() {
+function getResponseFromAPI() {
   return new Promise((resolve) => {
     resolve('');
   });
